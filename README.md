@@ -52,4 +52,4 @@ Future versions can include:
 - 📈 Advanced performance analytics
 - 🏆 Achievement and badge system
 
-This project demonstrates how basic web technologies can be combined to build a creative, interactive, and functional quiz platform suitable for learning, practice, and entertainment.
+This project demonstrates how basic web technologies can be combined to build a creative, interactive, and functional quiz platform suitable for learning, practice, and entertainmen.
